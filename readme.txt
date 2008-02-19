@@ -3,8 +3,8 @@ Contributors: belminf
 Donate link: http://wiki.bfworks.com/Unique_Comment_Notify 
 Tags: notify, unique, gmail, subject, comment, moderation, admin
 Requires at least: 2.2
-Tested up to: 2.3.2
-Stable tag: 1.0
+Tested up to: 2.3.3
+Stable tag: trunk
 
 Unique Comment Notify appends the author's name to subject of notification e-mails.
 
