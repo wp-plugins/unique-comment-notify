@@ -1,7 +1,7 @@
 === Unique Comment Notify ===
 Contributors: belminf
 Donate link: http://wiki.bfworks.com/Unique_Comment_Notify 
-Tags: notify, unique, gmail, subject, comment, moderation
+Tags: notify, unique, gmail, subject, comment, moderation, admin
 Requires at least: 2.2
 Tested up to: 2.3.2
 Stable tag: 1.0
