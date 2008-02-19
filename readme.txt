@@ -10,7 +10,10 @@ Unique Comment Notify appends the author's name to subject of notification e-mai
 
 == Description ==
 
-Unique Comment Notify appends the author's name to subject of e-mails that notify you of new comments. This prevents Gmail and other treading e-mail clients from grouping all notification e-mails for a post into one converstation.
+Unique Comment Notify appends the comment author's name to the subject of the
+notification message sent to the blogger. This prevents Gmail and other
+threading e-mail clients from grouping all notification e-mails for a post
+into one conversation.
 
 == Installation ==
 

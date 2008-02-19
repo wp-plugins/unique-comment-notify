@@ -3,7 +3,7 @@
 Plugin Name: Unique Comment Notify
 Plugin URI: http://wiki.bfworks.com/index.php/Unique_Comment_Notify
 Version: 1.0
-Description: Appends author name to comment notification's subject. Useful so that GMail doesn't thread all comment notifications/moderation requests for each blog posting together as one conversation.
+Description: Unique Comment Notify appends the comment author's name to the subject of the notification message sent to the blogger. This prevents Gmail and other threading e-mail clients from grouping all notification e-mails for a post into one conversation.
 Author: Belmin Fernandez
 Author URI: http://bfworks.com
 */
